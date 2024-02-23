@@ -1,0 +1,48 @@
+phospholamban
+"troponin T2, cardiac type"
+ribosomal protein L13a
+NDUFA4 mitochondrial complex associated
+beta-2-microglobulin
+ribosomal protein S27a
+cytochrome c oxidase subunit 7B
+"cytochrome c, somatic"
+ribosomal protein S29
+small muscle protein X-linked
+ribosomal protein L38
+eukaryotic translation initiation factor 4A2
+ribosomal protein L7
+peptidylglycine alpha-amidating monooxygenase
+N-acylsphingosine amidohydrolase 1
+heat shock protein family A (Hsp70) member 8
+cytochrome c oxidase subunit 4I1
+ATP synthase peripheral stalk subunit F6
+acetyl-CoA acetyltransferase 1
+"destrin, actin depolymerizing factor"
+SPARC like 1
+myosin light chain 12B
+ATP synthase membrane subunit e
+integral membrane protein 2B
+voltage dependent anion channel 3
+ribosomal protein L6
+ribosomal protein L22
+cytochrome c oxidase subunit 7A2
+mortality factor 4 like 1
+ribosomal protein L7a
+ribosomal protein S25
+NADH:ubiquinone oxidoreductase subunit B5
+heat shock protein 90 alpha family class A member 1
+ribosomal protein S7
+translation machinery associated 7 homolog
+four and a half LIM domains 1
+Parkinsonism associated deglycase
+voltage dependent anion channel 2
+selenoprotein P
+ATP synthase F1 subunit epsilon
+dihydrolipoamide dehydrogenase
+NADH:ubiquinone oxidoreductase subunit A12
+ribosomal protein L13 pseudogene 12
+ribosomal protein L13
+CD36 molecule
+eukaryotic translation initiation factor 1B
+insulin like growth factor binding protein 7
+transmembrane protein 14C
